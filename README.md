@@ -22,7 +22,8 @@ The application is implemented using:
 
 ---
 
-## Project Structure
+## 📂 Project Structure
+
 cost_benefit_ai_project/
 │
 ├── App.py # Flask backend
@@ -30,6 +31,7 @@ cost_benefit_ai_project/
 │ ├── xgb_classifier.pkl # Trained XGBoost model
 │ ├── scaler.pkl # StandardScaler
 │ └── train_model.py # Script to train the model
+│
 ├── static/
 │ ├── feature_importance.png # Auto-generated feature importance plot
 │
@@ -42,4 +44,16 @@ cost_benefit_ai_project/
 │
 ├── requirements.txt # Python dependencies
 ├── README.md # Project documentation
+
+---
+
+ **Fix in README.md:**
+- Use triple backticks (```) before and after the block.
+- Ensure spacing is consistent (2–3 spaces after `│`).
+- Keep comments aligned for better readability.
+
+---
+
+Do you want me to **directly rewrite your README.md** with this fixed project structure included so it displays cleanly on GitHub? That way it’ll look polished when recruiters view it.
+
 
